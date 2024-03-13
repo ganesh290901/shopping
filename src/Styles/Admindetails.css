@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center ;
+    background-color: whitesmoke;
+    min-height: 10vh;
+}
+.division{
+    display: flex;
+}
+.division a{
+    padding: 0px 40px;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(255, 136, 0);
+}
+.header span{
+    font-size: 20px;
+    color: rgb(255, 136, 0);
+}

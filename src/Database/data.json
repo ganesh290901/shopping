@@ -1,0 +1,67 @@
+{
+  "newaccount": [
+    {
+      "id": "0763",
+      "username": "ganesh",
+      "password": "ganesh",
+      "email": "ganesh@gmail.com",
+      "mobile": "11223344",
+      "gender": "male"
+    }
+  ],
+  "seretcode": [
+    {
+      "password": "firstproject",
+      "id": "04f5"
+    }
+  ],
+  "products": [
+    {
+      "id": "c4b4",
+      "imageUrl": "https://www.91-img.com/pictures/television/lg/-134815-large-1.jpg",
+      "category": "Television",
+      "productName": "LG",
+      "price": 20000,
+      "rating": 3,
+      "specifications": "led"
+    },
+    {
+      "id": "379e",
+      "imageUrl": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L2hpcHBvdW5pY29ybjc2X3dhdGVyY29sb3JfaWxsdXN0cmF0aW9uX29mX2xhcHRvcF9pc29sYXRlX2lsbHVzdF85ODc5ZmYwOS1iMjM5LTQ2ZDItYWM2Yi1iYzcwMjI3MGJmZTQucG5n.png",
+      "category": "Laptop",
+      "productName": "laptop 2",
+      "price": 224322,
+      "rating": 3,
+      "specifications": "fewbkw"
+    },
+    {
+      "id": "a22f",
+      "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2023/06/bestlaptops-2048px-9765.jpg?auto=webp&quality=75&crop=1.91:1&width=1200",
+      "category": "Laptop",
+      "productName": "laptop 3",
+      "price": 3296,
+      "rating": 3,
+      "specifications": "refgreqw"
+    }
+  ],
+  "cart": [
+    {
+      "id": "69a1",
+      "imageUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1702666707/Croma%20Assets/Entertainment/Television/Images/252942_0_fy35ou.png",
+      "category": "Television",
+      "productName": "sony",
+      "price": 40000,
+      "rating": 3,
+      "specifications": "Led"
+    },
+    {
+      "id": "379e",
+      "imageUrl": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L2hpcHBvdW5pY29ybjc2X3dhdGVyY29sb3JfaWxsdXN0cmF0aW9uX29mX2xhcHRvcF9pc29sYXRlX2lsbHVzdF85ODc5ZmYwOS1iMjM5LTQ2ZDItYWM2Yi1iYzcwMjI3MGJmZTQucG5n.png",
+      "category": "Laptop",
+      "productName": "laptop 2",
+      "price": 224322,
+      "rating": 3,
+      "specifications": "fewbkw"
+    }
+  ]
+}
